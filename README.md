@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m working on **an AI Stylist App**  
-- 🌱 I’m currently learning **React Native, Cybersecurity, and Animation**  
+- 🌱 I’m currently learning **Flutter, Cybersecurity, and Animation**  
 - 👯 I’m open to collaborating on **cool open-source projects**  
 - 💬 Ask me about anything tech  
 - ⚡ Fun fact: I love turning complex ideas into interactive visuals!
