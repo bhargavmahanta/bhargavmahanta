@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m working on **an AI Stylist App**  
+- 🔭 I’m working on **Lexio**  
 - 🌱 I’m currently learning **Flutter, Cybersecurity, and Animation**  
 - 👯 I’m open to collaborating on **cool open-source projects**  
 - 💬 Ask me about anything tech  
