@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m working on **Lexio**  
-- 🌱 I’m currently learning **Flutter, Cybersecurity, and Animation**  
+- 🌱 I’m currently learning **Flutter, Cybersecurity, and Animations**  
 - 👯 I’m open to collaborating on **cool open-source projects**  
 - 💬 Ask me about anything tech  
 - ⚡ Fun fact: I love turning complex ideas into interactive visuals!
