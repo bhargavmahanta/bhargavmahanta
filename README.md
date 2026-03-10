@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](www.linkedin.com/in/bhargav-mahanta-44583a243)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/bhargav-mahanta-44583a243)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/BhargavMahanta_)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/thebhargavmahanta/)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/1142383913713532928)
@@ -40,8 +40,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavmahanta&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavmahanta&theme=radical" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhargavmahanta&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bhargavmahanta&theme=radical" />
 </p>
 
 ---
