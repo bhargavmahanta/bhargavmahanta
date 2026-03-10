@@ -46,6 +46,13 @@
 
 ---
 
+### 📊 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 🐍 Snake Animation
 
 ![snake gif](https://raw.githubusercontent.com/bhargavmahanta/bhargavmahanta/output/github-snake-dark.svg)
