@@ -1,0 +1,48 @@
+# Number of activity lines that will appear in README
+max_lines: 10
+
+# Format of the commit message displayed
+commit:
+  message: "⬆️ Pushed {{count}} commit(s) to {{repo}}"
+
+# Pull request activity
+pull_request:
+  opened: "🔀 Opened PR #{{number}} in {{repo}}"
+  closed: "❌ Closed PR #{{number}} in {{repo}}"
+  merged: "🎉 Merged PR #{{number}} in {{repo}}"
+
+# Issue activity
+issue:
+  opened: "🐛 Opened issue #{{number}} in {{repo}}"
+  closed: "✔️ Closed issue #{{number}} in {{repo}}"
+
+# Comments
+issue_comment:
+  created: "💬 Commented on issue #{{number}} in {{repo}}"
+
+# Starred repositories
+watch:
+  started: "⭐ Starred {{repo}}"
+
+# Forked repositories
+fork:
+  forked: "🍴 Forked {{repo}}"
+
+# New repositories
+create:
+  repository: "📦 Created repository {{repo}}"
+
+# Release events
+release:
+  published: "🚀 Published release {{tag}} in {{repo}}"
+
+# Which GitHub events should appear
+events:
+  - PushEvent
+  - PullRequestEvent
+  - IssuesEvent
+  - IssueCommentEvent
+  - CreateEvent
+  - WatchEvent
+  - ForkEvent
+  - ReleaseEvent
