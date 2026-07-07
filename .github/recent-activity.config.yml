@@ -1,6 +1,0 @@
-# Readme-Workflows/recent-activity v2 configuration.
-settings:
-  max_lines: 10
-
-messages:
-  push: "Pushed to {REPO}"

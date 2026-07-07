@@ -45,16 +45,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bhargavmahanta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. Pushed to [bhargavmahanta/bhargavmahanta](https://github.com/bhargavmahanta/bhargavmahanta)
-2. Pushed to [bhargavmahanta/bhargavmahanta](https://github.com/bhargavmahanta/bhargavmahanta)
-3. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-4. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-5. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
-<!--RECENT_ACTIVITY:end-->
-
 ---
 
 ### 🐍 Snake Animation
